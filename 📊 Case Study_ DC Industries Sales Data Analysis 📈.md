@@ -30,7 +30,7 @@ To replicate or explore this analysis:
 
 1.  Ensure you have the necessary tools (e.g., Alteryx, if the original solution was built there, or a data analysis environment like Python/R with relevant libraries).
 2.  Download all the data files (`Customer Orders-West.xlsx`, `Customer Orders-East.xlsx`, `Regions.csv`, `OrderDetails.xlsx`) into your working directory.
-3.  If an Alteryx workflow (`.yxmd` file) is provided, open it with Alteryx Designer. Otherwise, use the provided scripts or notebooks to run the analysis.
+3.  Open Alteryx workflow (`.yxmd` file) with Alteryx Designer,and run the workflow.
 4.  Review the outputs and visualizations to understand the answers to the questions outlined above.
 
 ## 🤝 Contributing:
