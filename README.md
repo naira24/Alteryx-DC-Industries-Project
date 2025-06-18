@@ -20,7 +20,7 @@ The analysis was performed using the following datasets:
 - `Regions.csv`: A file mapping states to their respective company regions.
 - `OrderDetails.xlsx`: Detailed information about each order.
 
-## ✨ Project Insights & Description:
+## Project Insights & Description:
 
 This project provides a deep dive into DC Industries' sales performance. By integrating and analyzing data from multiple sources, we can identify key trends, profitable segments, and areas for potential improvement. The insights gained can help in strategic decision-making, optimizing sales efforts, and improving overall profitability.
 
